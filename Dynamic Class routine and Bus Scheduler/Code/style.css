@@ -1,0 +1,19 @@
+*{
+    font-family: 'poppins', sans serif;
+}
+
+body{
+    background-image: url(./image/background\ \(2\).jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 90vh;
+
+}
